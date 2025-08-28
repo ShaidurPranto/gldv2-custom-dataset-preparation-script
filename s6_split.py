@@ -8,9 +8,9 @@ val_csv   = "gldv2_dataset/val.csv"
 test_csv  = "gldv2_dataset/test.csv"
 
 # proportions (must sum to 1.0)
-train_size = 0.7
-val_size   = 0.15
-test_size  = 0.15
+train_size = 0.8
+val_size   = 0.1
+test_size  = 0.1
 
 random_seed = 42
 # ---------------------------------------- #
