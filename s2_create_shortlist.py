@@ -6,13 +6,17 @@ output_csv = "gldv2_csvs/cleaner_train.csv"    # resulting csv
 
 # Inclusion lists:
 # ranges inclusive: list of (start, end)
-include_ranges = [(1, 25000)]
+include_ranges = []
 # individual landmark ids:
-include_ids = []   # e.g. [101, 202, 303]
+include_ids = [
+    47378, 18392, 39650, 10419, 64792,
+    40088, 21703, 189907, 90021, 190822,
+    165596, 101399, 152708, 172929, 125425
+]  # e.g. [101, 202, 303]
 
 # thresholds
-min_images_required = 50          # landmark must have >= this many images to be selected
-max_images_keep_per_landmark = 70 # for selected landmarks, keep at most this many rows
+min_images_required = 500          # landmark must have >= this many images to be selected
+max_images_keep_per_landmark = 510 # for selected landmarks, keep at most this many rows
 max_unique_landmarks = 10        # cap number of unique landmark IDs included
 
 # sampling / reproducibility

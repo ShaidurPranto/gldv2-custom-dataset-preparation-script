@@ -1,0 +1,125 @@
+ALL OF THE LANDMARK_ID BELOW HAS MORE THAN 500 IMAGES
+
+top 15 architectural/cultural heritage:
+
+    Eiffel Tower (Paris, France) → 47378
+    Angkor Wat (Cambodia) → 18392
+    Chichén Itzá (Mexico) → 39650
+    Qutb Minar and its monuments, Delhi (India) → 10419
+    Victoria Memorial, Kolkata (India) → 64792
+    Masada (Israel) → 40088
+    Zvartnots Cathedral ruins (Armenia) → 21703
+    Itmad-ud-Daulah’s Tomb (Agra, India) → 189907
+    Rohtas Fort (Pakistan) → 90021
+    Faisal Mosque (Islamabad, Pakistan) → 190822
+    Edinburgh Castle (Scotland) → 165596
+    Ljubljana Castle (Slovenia) → 101399
+    Akbar’s Tomb (Agra, India) → 152708
+    Shwedagon Pagoda (Myanmar) → 172929
+    Citadelle de Québec (Canada) → 125425
+
+    [
+        47378, 18392, 39650, 10419, 64792,
+        40088, 21703, 189907, 90021, 190822,
+        165596, 101399, 152708, 172929, 125425
+    ]
+
+
+Top 15 Natural Wonders & Landscapes:
+    Niagara Falls (Canada/USA) → 1924
+    Iguazu Falls (Argentina/Brazil) → 73300
+    Grand Canyon (USA) → 46705
+    Bryce Canyon National Park (USA) → 168106
+    Yellowstone National Park (USA) → 24852
+    Dead Sea (Jordan/Israel/Palestine) → 164773
+    Huangshan (China) → 18786
+    Wulingyuan (China) → 55623
+    Mount Wutai (China) → 31361
+    Lake Bled (Slovenia) → 98993
+    Lake Como (Italy) → 189811
+    Lake Ohrid (North Macedonia/Albania) → 120885
+    Lake Constance (Germany/Switzerland/Austria) → 146497
+    Mount Rainier National Park (USA) → 86869
+    Haleakalā National Park (Hawaii, USA) → 176528
+
+    [
+        1924, 73300, 46705, 168106, 24852,
+        164773, 18786, 55623, 31361, 98993,
+        189811, 120885, 146497, 86869, 176528
+    ]
+
+
+Top 15 Parks & Botanical Gardens:
+
+    Central Park (New York, USA) → 182973
+    Royal Botanic Garden Edinburgh (UK) → 144313
+    Royal National Park (Australia) → 177194
+    Kahanu Garden (Hawaii, USA) → 184313
+    Itatiaia National Park (Brazil) → 51699
+    Chapada dos Veadeiros National Park (Brazil) → 108327
+    Serra da Estrela (Portugal) → 182908
+    Parque Terra Nostra (Azores, Portugal) → 44796
+    Sofiyivsky Park (Ukraine) → 45428
+    Oleksandria Park (Ukraine) → 11544
+    Botanical Garden Jevremovac (Serbia) → 10618
+    National M. M. Grishko Botanical Garden (Kyiv, Ukraine) → 60532
+    Fomin Botanical Garden (Kyiv, Ukraine) → 88596
+    Lewis Ginter Botanical Garden (Virginia, USA) → 202388
+    Meadowlark Botanical Gardens (Virginia, USA) → 127523
+
+    [
+        182973, 144313, 177194, 184313, 51699,
+        108327, 182908, 44796, 45428, 11544,
+        10618, 60532, 88596, 202388, 127523
+    ]
+
+
+Top 15 Historic Fortresses & Castles:
+
+    Akkerman Fortress (Ukraine) → 41648
+    Khotyn Fortress (Ukraine) → 149980
+    Ogrodzieniec Castle (Poland) → 109169
+    Ljubljana Castle (Slovenia) → 101399
+    Edinburgh Castle (Scotland) → 165596
+    Skopje Fortress (North Macedonia) → 38482
+    Genoese Fortress (Sudak, Crimea) → 187779
+    Arg of Karim Khan (Iran) → 39865
+    Bakhchisaray Palace (Crimea) → 136302
+    Castle Heeswijk (Netherlands) → 5004
+    Kasteel van Breda (Netherlands) → 75005
+    Kasteel Amerongen (Netherlands) → 147897
+    Markiezenhof (Netherlands) → 176956
+    Citadelle de Québec (Canada) → 125425
+
+    Masada (Israel) → 40088
+
+    [
+        41648, 149980, 109169, 101399, 165596,
+        38482, 187779, 39865, 136302, 5004,
+        75005, 147897, 176956, 125425, 40088
+    ]    
+
+
+Top 15 Religious & Spiritual Sites:
+
+    Shwedagon Pagoda (Myanmar) → 172929
+    Zvartnots Cathedral ruins (Armenia) → 21703
+    Haghpat Monastery (Armenia) → 191292
+    St. Hripsime Church (Armenia) → 107164
+    Marmashen Monastery (Armenia) → 80272
+    Hayravank Monastery (Armenia) → 176018
+    Kecharis Monastery (Armenia) → 36748
+    Purana Qila (Delhi, India) → 173511
+    Isa Khan’s Tomb (Delhi, India) → 27
+    Akbar’s Tomb (Agra, India) → 152708
+    Itmad-ud-Daulah’s Tomb (Agra, India) → 189907
+    Faisal Mosque (Islamabad, Pakistan) → 190822
+    Lok Virsa Museum (Islamabad, Pakistan) → 171683
+    Chattahoochee-Oconee National Forest (USA) → 173450 (nature + sacred heritage)
+    Dead Sea (sacred significance) → 164773
+
+    [
+        172929, 21703, 191292, 107164, 80272,
+        176018, 36748, 173511, 27, 152708,
+        189907, 190822, 171683, 173450, 164773
+    ]
